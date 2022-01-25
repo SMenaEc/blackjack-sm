@@ -99,7 +99,7 @@ const miModulo = (() => {
             } else {
                 alert('Ganó la computadora');
             }
-        }, 100);
+        }, 1000);
     }
 
     const turnoComputadora = (puntosMinimos) => {
